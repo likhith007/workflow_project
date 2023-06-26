@@ -1,1 +1,2 @@
 This is just simple file. Added this from fork account.
+This line has been added in second PR. This helps to test whether workflow is getting triggered when we use pull_request instead of pull_request_target.
