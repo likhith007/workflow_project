@@ -10,7 +10,6 @@ on:
       - opened
       - synchronize
   workflow_run:
-    workflows: ["CI"]
     types:
       - requested
   # Allows you to run this workflow manually from the Actions tab
