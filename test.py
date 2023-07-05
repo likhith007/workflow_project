@@ -4,4 +4,6 @@ def hello(checking):
     print("Just chekcing sonarqube for code smell")
   if abc == 2:
     print("Its just 2 ")
+  else:
+    print("I am happy")
 
